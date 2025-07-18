@@ -470,6 +470,7 @@ color: #c62818;
 .hero-custom,
 .p-custom,
 .p-customBoldItalic,
+.p-customBoldItalic2,
 .lead-customjustificado22,
 .lead-custom,
 .lead-customBLANCO,
@@ -513,6 +514,14 @@ color: #c62818;
 }
 
 
+
+.p-customBoldItalic2 {
+  font-size: 1.8rem;
+   font-weight: 600;
+   font-style: italic;
+  color: #2d2d2d;
+  line-height: 1.2;
+}
   
  
 
