@@ -381,6 +381,7 @@ img.rounded-circle {
 .h1-custom,
 .h1-customR,
 .h2-custom,
+.h2-custom3,
 .h2-customblanco,
 .h2-customPLANES,
 .h3-custom,
@@ -413,6 +414,15 @@ img.rounded-circle {
   line-height: 1.1;
   color:#2d2d2d;
 }
+
+
+.h2-custom3 {
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 1.1;
+  color:#c62818;
+}
+
 
 .h2-customblanco {
   font-size: 2.5rem;
@@ -469,6 +479,7 @@ color: #c62818;
 
 .hero-custom,
 .p-custom,
+.p-custom2,
 .p-customBoldItalic,
 .p-customBoldItalic2,
 .lead-customjustificado22,
@@ -501,7 +512,15 @@ color: #c62818;
   font-size: 1.4rem;
    font-weight: 300;
   color: #2d2d2d;
-  line-height: 0.8;
+  line-height: 1;
+}
+
+
+.p-custom2 {
+  font-size: 1.5rem;
+   font-weight: 500;
+  color: #2d2d2d;
+  line-height: 1;
 }
 
 
